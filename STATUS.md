@@ -8,8 +8,8 @@
 | **Entorno Virtual** | Python 3.14 (`.venv` aislado en modo seguro) |
 | **Ubicación Local** | `C:\Users\User\Desktop\CARPETA DE TRABAJO DE ANTIGRAVITY CLI-JPV\centro_meteorologico_openweather` |
 | **Repositorio Remoto** | [https://github.com/JUANCITOPENA/centro-meteorologico-openweather](https://github.com/JUANCITOPENA/centro-meteorologico-openweather) |
-| **Despliegue Streamlit Cloud** | [Enlace de Despliegue con 1 Clic](https://share.streamlit.io/deploy?repository=JUANCITOPENA/centro-meteorologico-openweather&branch=main&mainModule=app.py) |
-| **Estado Global** | 🟢 **100% Operativo, Validado y Listo para Producción** |
+| **Aplicación en Vivo (Cloud)** | [https://monitor-ambiental-api-clima-open-meteo.streamlit.app/](https://monitor-ambiental-api-clima-open-meteo.streamlit.app/) |
+| **Estado Global** | 🟢 **100% Operativo, Desplegado en Producción y Auditado** |
 | **Autor / Arquitecto** | Ing. Juancito Peña Vizcaíno |
 
 ---
