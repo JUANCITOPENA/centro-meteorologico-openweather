@@ -1,0 +1,17 @@
+# Entornos virtuales
+.venv/
+venv/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Streamlit secrets locales (evitar publicar claves en git)
+.streamlit/secrets.toml
+
+# Temporales de descargas
+*.csv
+.DS_Store
+Thumbs.db
